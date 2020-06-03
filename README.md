@@ -1,0 +1,1 @@
+This is Agamotto/Vegmot's first git project!
